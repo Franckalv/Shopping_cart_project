@@ -3,7 +3,9 @@
 ## Universidad Don Bosco
 ### Facultad de Ingeniería
 ### Escuela de Ingeniería en Computación
-### Diseño y Programación de Software Multiplataforma
+### Diseño y Programación de Software Multiplataforma DPS104 G04L
+
+
 ### Primer Desafío Práctico
 
 ## Integrantes
@@ -51,13 +53,13 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
    La aplicación estará disponible en http://localhost:3000.
 
 ## Uso
-	- Agregar Producto al Carrito: Haz clic en el botón "Añadir al carrito" para agregar un producto.
-	- Ver Carrito: Haz clic en el icono del carrito para ver los productos añadidos.
-	- Eliminar Producto del Carrito: Haz clic en el icono de eliminar junto al producto en el carrito y confirma la eliminación.
-	- Vaciar Carrito: Haz clic en el botón "Vaciar Carrito" y confirma la acción.
-	- Ver Detalles del Producto: Haz clic en la imagen del producto para ver un modal con detalles adicionales.
+- Agregar Producto al Carrito: Haz clic en el botón "Añadir al carrito" para agregar un producto.
+- Ver Carrito: Haz clic en el icono del carrito para ver los productos añadidos.
+- Eliminar Producto del Carrito: Haz clic en el icono de eliminar junto al producto en el carrito y confirma la eliminación.
+- Vaciar Carrito: Haz clic en el botón "Vaciar Carrito" y confirma la acción.
+- Ver Detalles del Producto: Haz clic en la imagen del producto para ver un modal con detalles adicionales.
 
 ## Tecnologías Utilizadas
-	- React: Biblioteca de JavaScript para construir interfaces de usuario.
-	- Next.js: Framework de React para renderizado del lado del servidor y generación de sitios estáticos.
-	- Visual Studio Code: Editor de código fuente utilizado para el desarrollo.
+- React: Biblioteca de JavaScript para construir interfaces de usuario.
+- Next.js: Framework de React para renderizado del lado del servidor y generación de sitios estáticos.
+- Visual Studio Code: Editor de código fuente utilizado para el desarrollo.
