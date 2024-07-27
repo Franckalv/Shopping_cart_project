@@ -12,6 +12,9 @@
 - Cruz Enrique Moreno Lozano - ML210800
 - Francisco Javier Zaldaña Álvarez - ZA210751
 
+## Link a la defensa en video
+- https://youtu.be/e12RbmL01EA
+
 ## Descripción
 
 Este proyecto es una tienda en línea para la venta de productos relacionados con tecnología, software y hardware. Está desarrollado utilizando React y Next.js y se ha implementado en Visual Studio Code. El proyecto toma como base la guía#04.
