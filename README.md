@@ -36,19 +36,19 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 
 1. **Clona el repositorio:**
    ```bash
-   	git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/tu-usuario/tu-repositorio.git
    ```
 2. **Navega al directorio del proyecto:**
    ```bash
-   	cd tu-repositorio
+   cd tu-repositorio
    ```
 3. **Instala las dependencias:**
    ```bash
-   	npm install
+   npm install
    ```
 3. **Ejecuta la aplicación:**
    ```bash
-   	npm run dev
+   npm run dev
    ```
    La aplicación estará disponible en http://localhost:3000.
 
