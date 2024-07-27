@@ -101,6 +101,12 @@ header {
   font-size: 20px;
 }
 
+.imagen-producto-carrito {
+  height: 5rem;
+  width: 10rem;
+  margin-inline: 1rem;
+}
+
 .icon-close {
   width: 25px;
   height: 25px;
@@ -212,4 +218,31 @@ header {
 
 .hidden {
   display: none;
+}
+.ReactModal__Overlay {
+  z-index: 1000 !important;
+}
+
+.ReactModal__Content {
+  z-index: 1001 !important;
+}
+
+.button-confirm {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-cancel {
+  background-color: gray;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
