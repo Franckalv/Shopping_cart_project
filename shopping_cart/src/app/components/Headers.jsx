@@ -67,7 +67,7 @@ export const Headers = ({
     };
 
     const onDeleteProduct = (product) => {
-        setProductToDelete(product); // Set the product to delete
+        setProductToDelete(product); // Se setea productToDelete con el producto a eliminar
         openModal("¿Estás seguro de que quieres eliminar este artículo del carrito?", confirmDelete, "Confirmación de Eliminación");
     };
 

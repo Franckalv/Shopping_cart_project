@@ -11,7 +11,7 @@ const customStyles = {
         marginRight: '-50%',
         transform: 'translate(-50%, -50%)',
         zIndex: 1000,
-        maxWidth: '800px', // Adjust as needed
+        maxWidth: '800px',
         width: '100%',
         display: 'flex',
         flexDirection: 'row',
@@ -65,7 +65,7 @@ export const ProductList = ({
                         <img
                             src={product.urlImage}
                             alt={product.title}
-                            onClick={() => openModal(product)} // Open modal on image click
+                            onClick={() => openModal(product)} // Se abre el modal al hacer click en la imagen
                         />
                     </figure>
                     <div className='info-product'>
@@ -78,7 +78,7 @@ export const ProductList = ({
                 </div>
             ))}
 
-            {/* Modal for product details */}
+            {/* Modal con los detalles del producto */}
             <ReactModal
                 isOpen={modalIsOpen}
                 onRequestClose={closeModal}
@@ -90,12 +90,12 @@ export const ProductList = ({
                         <img
                             src={selectedProduct.urlImage}
                             alt={selectedProduct.title}
-                            style={{ width: '30rem', marginRight: '1rem', height: '20rem'}} // Adjust as needed
+                            style={{ width: '30rem', marginRight: '1rem', height: '20rem'}}
                         />
                         <div>
                             <h2>{selectedProduct.title}</h2>
                             <p style={{marginLeft:'0.5rem', marginBottom:'1rem', marginTop:'1rem'}}>Precio: ${selectedProduct.price}</p>
-                            <h3 style={{marginLeft:'0.5rem'}}>Descripcion</h3> {/* Add description here */}
+                            <h3 style={{marginLeft:'0.5rem'}}>Descripcion</h3>
                             <p style={{marginLeft:'0.5rem'}}>{selectedProduct.description}</p>
                             <button className="button-cancel" onClick={closeModal} style={{marginLeft: '0.5rem', marginTop: '3rem'}}>Cerrar</button>
                         </div>

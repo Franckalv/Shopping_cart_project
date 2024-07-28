@@ -1,35 +1,35 @@
 export const data=[
     {
-    id:1,
-    title:'Monitor Xiaomi G27I',
-    price:199,
-    urlImage:'https://www.zonadigitalsv.com/product/190997005871/image',
-    quantity:1,
-    description:'IPS rápido de 27 pulgadas. Esta pantalla de deportes electrónicos de 27 pulgadas tiene una resolución tan alta como 1920 × 1080. Adopta una pantalla LCD IPS rápida, lo que le permite responder rápidamente a eventos de tiempo rápido'
+        id:1,
+        title:'Monitor Xiaomi G27I',
+        price:199,
+        urlImage:'https://www.zonadigitalsv.com/product/190997005871/image',
+        quantity:1,
+        description:'IPS rápido de 27 pulgadas. Esta pantalla de deportes electrónicos de 27 pulgadas tiene una resolución tan alta como 1920 × 1080. Adopta una pantalla LCD IPS rápida, lo que le permite responder rápidamente a eventos de tiempo rápido'
     },
     {
-    id:2,
-    title:'Monitor ACER V226HQL',
-    price:119,
-    urlImage: 'https://www.zonadigitalsv.com/product/195133157520/image',
-    quantity:1,
-    description: 'Monitor de 21.5 pulgadas con resolución Full HD de 1920 x 1080 píxeles. Tiene un tiempo de respuesta de 5 ms y un brillo de 250 cd/m². Conexiones VGA y DVI.'
+        id:2,
+        title:'Monitor ACER V226HQL',
+        price:119,
+        urlImage: 'https://www.zonadigitalsv.com/product/195133157520/image',
+        quantity:1,
+        description: 'Monitor de 21.5 pulgadas con resolución Full HD de 1920 x 1080 píxeles. Tiene un tiempo de respuesta de 5 ms y un brillo de 250 cd/m². Conexiones VGA y DVI.'
     },
     {
-    id:3,
-    title:'Mouse Logitech MX ERGO',
-    price:99.95,
-    urlImage:'https://www.zonadigitalsv.com/product/097855132666/image',
-    quantity:1,
-    description: 'El MX ERGO es un trackball ergonómico que se puede ajustar a la posición de la mano del usuario. Cuenta con una bisagra ajustable que permite al usuario elegir entre un ángulo de 0 y 20 grados.'
+        id:3,
+        title:'Mouse Logitech MX ERGO',
+        price:99.95,
+        urlImage:'https://www.zonadigitalsv.com/product/097855132666/image',
+        quantity:1,
+        description: 'El MX ERGO es un trackball ergonómico que se puede ajustar a la posición de la mano del usuario. Cuenta con una bisagra ajustable que permite al usuario elegir entre un ángulo de 0 y 20 grados.'
     },
     {
-    id:4,
-    title:'Mouse inalambrico Razer Viper V3 Hyperspeed',
-    price:89,
-    urlImage:'https://www.zonadigitalsv.com/product/840272911228/image',
-    quantity:1,
-    description: 'El Razer Viper v3 Hyperspeed es un ratón inalámbrico para juegos que cuenta con la tecnología Razer HyperSpeed Wireless para una conexión inalámbrica ultrarrápida y fiable.'
+        id:4,
+        title:'Mouse inalambrico Razer Viper V3 Hyperspeed',
+        price:89,
+        urlImage:'https://www.zonadigitalsv.com/product/840272911228/image',
+        quantity:1,
+        description: 'El Razer Viper v3 Hyperspeed es un ratón inalámbrico para juegos que cuenta con la tecnología Razer HyperSpeed Wireless para una conexión inalámbrica ultrarrápida y fiable.'
     }, 
     {
         "id": 5,
