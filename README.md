@@ -39,11 +39,12 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Franckalv/Shopping_cart_project
    ```
 2. **Navega al directorio del proyecto:**
    ```bash
-   cd tu-repositorio
+   cd Shopping_cart_project
+   cd shopping_cart
    ```
 3. **Instala las dependencias:**
    ```bash
